@@ -5,7 +5,7 @@ The chatbot is still not fully complete, as there are still problems with it, bu
 The code compiles and works, there just needs to be more features for the chatbot to work fully. 
 
 Here is how to run: 
-Run this command firs: g++ -std=c++11 -arch arm64 -o chatbot chatbot.cpp
+Run this command first: g++ -std=c++11 -arch arm64 -o chatbot chatbot.cpp
 Then: ./chatbot
 
 Please contact amrivas.26@gmail.com if you have any questions. 
